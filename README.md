@@ -3,6 +3,12 @@
 Use this script to make PR2 point with its right arm
 to different space stuff (moon, sun, pluto...).
 
+Crappy video showcasing it (using Google Home to trigger it):
+
+[![Video of the tool working on PR2](http://img.youtube.com/vi/KJ-je-zJe_M/0.jpg)](http://youtu.be/KJ-je-zJe_M)
+
+
+
 You'll need to point PR2 towards mars and give that mars deviation.
 
 We have no compass in the robot so we can't know where he is facing initially.
